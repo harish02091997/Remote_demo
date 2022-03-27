@@ -15,3 +15,5 @@ public class demo {
     }
     
 }
+
+// Demo code and randome
